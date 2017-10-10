@@ -2,7 +2,7 @@
       Data Structures: Singly Linked List
       Author: Pranshu Shelat
       Purpose: Detailing various operations that can be performed
-               in a single linked list
+               in a singly linked list
 */
 
 #include <stdio.h>
